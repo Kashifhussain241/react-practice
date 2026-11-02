@@ -1,0 +1,10 @@
+/* // apply style to   App.jsx */
+.App{
+    background-color: #a70404;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding: 20px;
+}
